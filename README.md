@@ -26,18 +26,6 @@ This notebook analyzes a Jira backlog using a Large Language Model (LLM) to help
 | Python | Core language |
 
 ---
-
-## 🚀 Getting Started
-
-This notebook is intended for **reading and learning**. To explore the code:
-
-1. Open the notebook directly in Google Colab using the badge below
-2. Browse the cells to understand the analysis pipeline
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/jira-backlog-analyzer/blob/main/YOUR_NOTEBOOK.ipynb)
-
-> **Note:** Replace the badge link above with your actual notebook path after uploading.
-
 ---
 
 ## 🔑 API Key Setup (If You Run It)
