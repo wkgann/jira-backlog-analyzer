@@ -1,11 +1,11 @@
 # 🗂️ Jira Backlog Analyzer
 
 An AI-powered Jira backlog analysis tool built with Google Gemini and LangChain, developed in Google Colab.  
-This notebook was created as a companion to a [Towards Data Science](https://towardsdatascience.com) article.
+
 
 ---
 
-## 📌 What It Does
+## What It Does
 
 This notebook analyzes a Jira backlog using a Large Language Model (LLM) to help teams:
 
@@ -16,7 +16,7 @@ This notebook analyzes a Jira backlog using a Large Language Model (LLM) to help
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -51,12 +51,12 @@ api_key = userdata.get('GEMINI_API_KEY')
 
 ---
 
-## 👤 Author
+## Author
 
 Made by **[K Gann]** · [LinkedIn]([https://linkedin.com/in/w-j-ketty-g-8b933a11]
 ---
 
-## 📜 License
+## License
 
 This project is open for learning and reference purposes.  
 Feel free to adapt the code with attribution.
