@@ -43,11 +43,6 @@ from google.colab import userdata
 api_key = userdata.get('GEMINI_API_KEY')
 ```
 
----
-
-## 📄 Related Article
-
-> 📝 Link to the full article on Towards Data Science: TBD
 
 ---
 
